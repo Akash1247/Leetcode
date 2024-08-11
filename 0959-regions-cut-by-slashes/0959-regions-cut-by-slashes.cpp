@@ -1,74 +1,42 @@
 class Solution {
-private:
-    void bfs(int i,int j,vector<vector<int>>&newGrid,vector<vector<int>>&vis)
-    {
-        queue<pair<int,int>>q;
-        q.push({i,j});
-        vis[i][j]=1;
-        while(!q.empty())
-        {
-            int row=q.front().first;
-            int col=q.front().second;
-            q.pop();
-            if(row>0 && newGrid[row-1][col]==0 && vis[row-1][col]==0)
-            {
-                vis[row-1][col]=1;
-                q.push({row-1,col});
-            }
-            if(row<newGrid.size()-1 && newGrid[row+1][col]==0 && vis[row+1][col]==0)
-            {
-                vis[row+1][col]=1;
-                q.push({row+1,col});
-            }
-            if(col>0 && newGrid[row][col-1]==0 && vis[row][col-1]==0)
-            {
-                vis[row][col-1]=1;
-                q.push({row,col-1});
-            }
-             if(col<newGrid[0].size()-1 && newGrid[row][col+1]==0 && vis[row][col+1]==0)
-            {
-                vis[row][col+1]=1;
-                q.push({row,col+1});
-            }
-        }
-    }
 public:
+   void dfs(vector<vector<int>>&matrix,int i,int j){
+      if(i<0 || i>=matrix.size()||j<0 || j>=matrix[0].size()||matrix[i][j]==1){
+        return;
+      }
+      matrix[i][j]=1;
+     dfs(matrix,i+1,j);
+     dfs(matrix,i-1,j);
+     dfs(matrix,i,j+1);
+     dfs(matrix,i,j-1);
+
+   }
     int regionsBySlashes(vector<string>& grid) {
-        int res=0;
-        int n=grid.size();
-        int m=grid[0].size();
-        vector<vector<int>>newGrid(3*n,vector<int>(3*m,0));  
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<m;j++)
-            {
-                if(grid[i][j]=='/')
-                {
-                    newGrid[3*i][3*j+2]=1;
-                    newGrid[3*i+1][3*j+1]=1;
-                    newGrid[3*i+2][3*j]=1;
-                }
-                else if(grid[i][j]=='\\')
-                {
-                    newGrid[3*i][3*j]=1;
-                    newGrid[3*i+1][3*j+1]=1;
-                    newGrid[3*i+2][3*j+2]=1;
-                }
-            }
-        } 
-        vector<vector<int>>vis(3*n,vector<int>(3*m,0));  
-        for(int i=0;i<newGrid.size();i++)
-        {
-            for(int j=0;j<newGrid[0].size();j++)
-            {
-                if(newGrid[i][j]==0 && vis[i][j]==0)
-                {
-                    res++;
-                    bfs(i,j,newGrid,vis);
+        int row=grid.size();
+        int col=grid[0].size();
+        int ans=0;
+        vector<vector<int>>matrix(row*3,vector<int>(col*3,0));
+        for(int i=0;i<row;i++){
+            for(int j=0;j<col;j++){
+                if(grid[i][j]=='/'){
+                    matrix[i*3][j*3+2]=1;
+                    matrix[i*3+1][j*3+1]=1;
+                    matrix[i*3+2][j*3]=1;
+                }else if(grid[i][j]=='\\'){
+                      matrix[i*3][j*3]=1;
+                    matrix[i*3+1][j*3+1]=1;
+                    matrix[i*3+2][j*3+2]=1;
                 }
             }
         }
-
-        return res;
+        for(int i=0;i<matrix.size();i++){
+            for(int j=0;j<matrix[0].size();j++){
+                if(matrix[i][j]==0){
+                    dfs(matrix,i,j);
+                    ans++;
+                }
+            }
+        }
+        return ans;
     }
 };

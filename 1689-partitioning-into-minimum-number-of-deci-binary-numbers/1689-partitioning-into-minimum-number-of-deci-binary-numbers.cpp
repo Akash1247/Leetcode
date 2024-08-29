@@ -10,7 +10,6 @@ public:
             {
                 max = s;
             }
-            cout<<max;
         }
         return max;
         

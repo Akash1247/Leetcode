@@ -1,17 +1,15 @@
 class Solution {
 public:
-    int minPartitions(string n) 
-    {
-        int max = 0;
-        for(int i =0;i<n.size();i++)
+    int minPartitions(string n) {
+
+        int ans=0;
+
+        for(int i=0 ; i<n.length() ; i++)
         {
-            int s = n[i]- '0';
-            if(s> max)
-            {
-                max = s;
-            }
+            ans = max(ans, n[i]-'0');
         }
-        return max;
+
+        return ans;
         
     }
 };

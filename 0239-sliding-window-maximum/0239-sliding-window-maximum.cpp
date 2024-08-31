@@ -17,7 +17,7 @@ public:
             if(j-i+1 == k)
             {
                 v.push_back(l.front());
-                if(nums[i] == l.front())
+                if(nums[i]==l.front())
                 {
                     l.pop_front();
                 }

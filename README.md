@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akash1247/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1143-longest-common-subsequence](https://github.com/Akash1247/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Akash1247/Leetcode/tree/master/0198-house-robber) |
+| [1143-longest-common-subsequence](https://github.com/Akash1247/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Binary Search
 |  |
 | ------- |

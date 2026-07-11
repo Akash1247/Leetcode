@@ -35,4 +35,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Akash1247/Leetcode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Akash1247/Leetcode/tree/master/0338-counting-bits) |
+## Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Akash1247/Leetcode/tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Akash1247/Leetcode/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Akash1247/Leetcode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Akash1247/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->

@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akash1247/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2352-equal-row-and-column-pairs](https://github.com/Akash1247/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Akash1247/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0435-non-overlapping-intervals](https://github.com/Akash1247/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0875-koko-eating-bananas](https://github.com/Akash1247/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [2352-equal-row-and-column-pairs](https://github.com/Akash1247/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Akash1247/Leetcode/tree/master/0435-non-overlapping-intervals) |
+## Matrix
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/Akash1247/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/Akash1247/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->

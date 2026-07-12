@@ -85,4 +85,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/Akash1247/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
+## Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Akash1247/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Akash1247/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Akash1247/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->

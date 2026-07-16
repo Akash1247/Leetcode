@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Akash1247/Leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Akash1247/Leetcode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/Akash1247/Leetcode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Akash1247/Leetcode/tree/master/0338-counting-bits) |
@@ -102,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Akash1247/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Akash1247/Leetcode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Akash1247/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

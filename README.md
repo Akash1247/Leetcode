@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Akash1247/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/Akash1247/Leetcode/tree/master/1268-search-suggestions-system) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash1247/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akash1247/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-domino-and-tromino-tiling](https://github.com/Akash1247/Leetcode/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/Akash1247/Leetcode/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Akash1247/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akash1247/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Akash1247/Leetcode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Akash1247/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash1247/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akash1247/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akash1247/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Two Pointers
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akash1247/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->

@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akash1247/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Akash1247/Leetcode/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Akash1247/Leetcode/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akash1247/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0399-evaluate-division](https://github.com/Akash1247/Leetcode/tree/master/0399-evaluate-division) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akash1247/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Akash1247/Leetcode/tree/master/0022-generate-parentheses) |
 | [0216-combination-sum-iii](https://github.com/Akash1247/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Array
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Akash1247/Leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Akash1247/Leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Akash1247/Leetcode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/Akash1247/Leetcode/tree/master/0198-house-robber) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Akash1247/Leetcode/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akash1247/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akash1247/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

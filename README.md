@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Akash1247/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash1247/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akash1247/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Akash1247/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash1247/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akash1247/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akash1247/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Akash1247/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/Akash1247/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Combinatorics
 |  |

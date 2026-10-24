@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akash1247/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1268-search-suggestions-system](https://github.com/Akash1247/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akash1247/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2409-count-days-spent-together](https://github.com/Akash1247/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash1247/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Akash1247/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akash1247/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Akash1247/Leetcode/tree/master/0062-unique-paths) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash1247/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Akash1247/Leetcode/tree/master/0877-stone-game) |
+| [2409-count-days-spent-together](https://github.com/Akash1247/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash1247/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akash1247/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akash1247/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |

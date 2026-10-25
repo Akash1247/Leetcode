@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Akash1247/Leetcode/tree/master/0018-4sum) |
 | [0136-single-number](https://github.com/Akash1247/Leetcode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Akash1247/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Akash1247/Leetcode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Akash1247/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0399-evaluate-division](https://github.com/Akash1247/Leetcode/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/Akash1247/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -109,11 +110,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Akash1247/Leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Akash1247/Leetcode/tree/master/0399-evaluate-division) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Akash1247/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Akash1247/Leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Akash1247/Leetcode/tree/master/0399-evaluate-division) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Akash1247/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Akash1247/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Akash1247/Leetcode/tree/master/0200-number-of-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Akash1247/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/Akash1247/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Akash1247/Leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Akash1247/Leetcode/tree/master/0399-evaluate-division) |
 ## Shortest Path
 |  |

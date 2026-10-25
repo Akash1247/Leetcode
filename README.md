@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Akash1247/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0875-koko-eating-bananas](https://github.com/Akash1247/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Akash1247/Leetcode/tree/master/0877-stone-game) |
+| [1254-number-of-closed-islands](https://github.com/Akash1247/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1268-search-suggestions-system](https://github.com/Akash1247/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akash1247/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Akash1247/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -112,12 +113,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Akash1247/Leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Akash1247/Leetcode/tree/master/0399-evaluate-division) |
+| [1254-number-of-closed-islands](https://github.com/Akash1247/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Akash1247/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Akash1247/Leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Akash1247/Leetcode/tree/master/0399-evaluate-division) |
+| [1254-number-of-closed-islands](https://github.com/Akash1247/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Akash1247/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Akash1247/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Graph Theory
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Akash1247/Leetcode/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/Akash1247/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Akash1247/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/Akash1247/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Akash1247/Leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Akash1247/Leetcode/tree/master/0399-evaluate-division) |
+| [1254-number-of-closed-islands](https://github.com/Akash1247/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Shortest Path
 |  |
 | ------- |
